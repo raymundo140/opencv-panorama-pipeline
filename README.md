@@ -55,40 +55,39 @@ Features
 - Debug images and intermediate outputs for every major stage
 - Reusable pipeline modules shared by multiple examples
 
-Repository Structure
---------------------
+## Repository Structure
 
+```text
 opencv-panorama-pipeline/
-|
-|-- pipeline/
-|   |-- __init__.py
-|   |-- config.py
-|   |-- calibration.py
-|   |-- undistortion.py
-|   |-- feature_extraction.py
-|   |-- image_matching.py
-|   |-- feature_matching.py
-|   |-- homography.py
-|   |-- warping.py
-|   |-- stitching.py
-|   |-- calibration_data/
-|   `-- calibration_results/
-|
-|-- example1_cerro/
-|   |-- main.py
-|   |-- media/
-|   `-- output/
-|
-|-- example2_drawing/
-|   |-- main.py
-|   |-- media/
-|   `-- output/
-|
-|-- requirements.txt
-|-- .gitignore
-|-- README.txt
-`-- LICENSE.txt
-
+├── pipeline/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── calibration.py
+│   ├── undistortion.py
+│   ├── feature_extraction.py
+│   ├── image_matching.py
+│   ├── feature_matching.py
+│   ├── homography.py
+│   ├── warping.py
+│   ├── stitching.py
+│   ├── calibration_data/
+│   └── calibration_results/
+│
+├── example1_cerro/
+│   ├── main.py
+│   ├── media/
+│   └── output/
+│
+├── example2_drawing/
+│   ├── main.py
+│   ├── media/
+│   └── output/
+│
+├── requirements.txt
+├── .gitignore
+├── README.md
+└── LICENSE.txt
+```
 Requirements
 ------------
 
