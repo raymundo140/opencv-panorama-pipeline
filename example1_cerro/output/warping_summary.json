@@ -1,0 +1,69 @@
+{
+    "number_images": 10,
+    "reference_index": 5,
+    "reference_image": "6.jpeg",
+    "canvas_width": 4493,
+    "canvas_height": 1295,
+    "images": [
+        {
+            "index": 0,
+            "image_name": "1.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/00_1_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/00_1_mask.png"
+        },
+        {
+            "index": 1,
+            "image_name": "2.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/01_2_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/01_2_mask.png"
+        },
+        {
+            "index": 2,
+            "image_name": "3.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/02_3_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/02_3_mask.png"
+        },
+        {
+            "index": 3,
+            "image_name": "4.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/03_4_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/03_4_mask.png"
+        },
+        {
+            "index": 4,
+            "image_name": "5.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/04_5_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/04_5_mask.png"
+        },
+        {
+            "index": 5,
+            "image_name": "6.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/05_6_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/05_6_mask.png"
+        },
+        {
+            "index": 6,
+            "image_name": "7.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/06_7_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/06_7_mask.png"
+        },
+        {
+            "index": 7,
+            "image_name": "8.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/07_8_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/07_8_mask.png"
+        },
+        {
+            "index": 8,
+            "image_name": "9.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/08_9_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/08_9_mask.png"
+        },
+        {
+            "index": 9,
+            "image_name": "10.jpeg",
+            "warped_image": "/home/goma/school/sem9/m3/example1_cerro/output/warped/09_10_warped.png",
+            "mask": "/home/goma/school/sem9/m3/example1_cerro/output/warped_masks/09_10_mask.png"
+        }
+    ]
+}

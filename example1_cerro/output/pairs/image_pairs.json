@@ -1,0 +1,87 @@
+{
+    "pairing_method": "sequential",
+    "number_pairs": 9,
+    "pairs": [
+        {
+            "pair_id": 0,
+            "image_a": "1.jpeg",
+            "image_b": "2.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/1_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/2_features.npz",
+            "keypoints_a": 2884,
+            "keypoints_b": 3209
+        },
+        {
+            "pair_id": 1,
+            "image_a": "2.jpeg",
+            "image_b": "3.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/2_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/3_features.npz",
+            "keypoints_a": 3209,
+            "keypoints_b": 3841
+        },
+        {
+            "pair_id": 2,
+            "image_a": "3.jpeg",
+            "image_b": "4.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/3_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/4_features.npz",
+            "keypoints_a": 3841,
+            "keypoints_b": 4200
+        },
+        {
+            "pair_id": 3,
+            "image_a": "4.jpeg",
+            "image_b": "5.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/4_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/5_features.npz",
+            "keypoints_a": 4200,
+            "keypoints_b": 4740
+        },
+        {
+            "pair_id": 4,
+            "image_a": "5.jpeg",
+            "image_b": "6.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/5_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/6_features.npz",
+            "keypoints_a": 4740,
+            "keypoints_b": 4927
+        },
+        {
+            "pair_id": 5,
+            "image_a": "6.jpeg",
+            "image_b": "7.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/6_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/7_features.npz",
+            "keypoints_a": 4927,
+            "keypoints_b": 4924
+        },
+        {
+            "pair_id": 6,
+            "image_a": "7.jpeg",
+            "image_b": "8.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/7_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/8_features.npz",
+            "keypoints_a": 4924,
+            "keypoints_b": 4931
+        },
+        {
+            "pair_id": 7,
+            "image_a": "8.jpeg",
+            "image_b": "9.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/8_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/9_features.npz",
+            "keypoints_a": 4931,
+            "keypoints_b": 4920
+        },
+        {
+            "pair_id": 8,
+            "image_a": "9.jpeg",
+            "image_b": "10.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example1_cerro/output/features/9_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example1_cerro/output/features/10_features.npz",
+            "keypoints_a": 4920,
+            "keypoints_b": 4911
+        }
+    ]
+}

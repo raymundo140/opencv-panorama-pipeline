@@ -1,0 +1,87 @@
+{
+    "pairing_method": "sequential",
+    "number_pairs": 9,
+    "pairs": [
+        {
+            "pair_id": 0,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.22 AM (1).jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.22 AM.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.22 AM (1)_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.22 AM_features.npz",
+            "keypoints_a": 315,
+            "keypoints_b": 376
+        },
+        {
+            "pair_id": 1,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.22 AM.jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.23 AM (1).jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.22 AM_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (1)_features.npz",
+            "keypoints_a": 376,
+            "keypoints_b": 164
+        },
+        {
+            "pair_id": 2,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.23 AM (1).jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.23 AM (2).jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (1)_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (2)_features.npz",
+            "keypoints_a": 164,
+            "keypoints_b": 145
+        },
+        {
+            "pair_id": 3,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.23 AM (2).jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.23 AM (3).jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (2)_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (3)_features.npz",
+            "keypoints_a": 145,
+            "keypoints_b": 267
+        },
+        {
+            "pair_id": 4,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.23 AM (3).jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.23 AM (4).jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (3)_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (4)_features.npz",
+            "keypoints_a": 267,
+            "keypoints_b": 411
+        },
+        {
+            "pair_id": 5,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.23 AM (4).jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.23 AM (5).jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (4)_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (5)_features.npz",
+            "keypoints_a": 411,
+            "keypoints_b": 253
+        },
+        {
+            "pair_id": 6,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.23 AM (5).jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.23 AM (6).jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (5)_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (6)_features.npz",
+            "keypoints_a": 253,
+            "keypoints_b": 288
+        },
+        {
+            "pair_id": 7,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.23 AM (6).jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.23 AM (7).jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (6)_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (7)_features.npz",
+            "keypoints_a": 288,
+            "keypoints_b": 287
+        },
+        {
+            "pair_id": 8,
+            "image_a": "WhatsApp Image 2026-10-04 at 11.57.23 AM (7).jpeg",
+            "image_b": "WhatsApp Image 2026-10-04 at 11.57.23 AM.jpeg",
+            "features_a": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM (7)_features.npz",
+            "features_b": "/home/goma/school/sem9/m3/example2_drawing/output/features/WhatsApp Image 2026-10-04 at 11.57.23 AM_features.npz",
+            "keypoints_a": 287,
+            "keypoints_b": 211
+        }
+    ]
+}

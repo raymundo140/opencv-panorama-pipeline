@@ -1,0 +1,106 @@
+{
+    "ransac_threshold": 3.0,
+    "confidence": 0.995,
+    "max_iterations": 5000,
+    "pairs": [
+        {
+            "pair_id": 0,
+            "image_a": "1.jpeg",
+            "image_b": "2.jpeg",
+            "success": true,
+            "matches": 828,
+            "inliers": 569,
+            "inlier_ratio": 0.6871980676328503,
+            "rms_error": 1.169262170791626,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_00_homography.npz"
+        },
+        {
+            "pair_id": 1,
+            "image_a": "2.jpeg",
+            "image_b": "3.jpeg",
+            "success": true,
+            "matches": 1154,
+            "inliers": 888,
+            "inlier_ratio": 0.7694974003466204,
+            "rms_error": 0.9778439998626709,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_01_homography.npz"
+        },
+        {
+            "pair_id": 2,
+            "image_a": "3.jpeg",
+            "image_b": "4.jpeg",
+            "success": true,
+            "matches": 1418,
+            "inliers": 1205,
+            "inlier_ratio": 0.8497884344146686,
+            "rms_error": 1.0221378803253174,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_02_homography.npz"
+        },
+        {
+            "pair_id": 3,
+            "image_a": "4.jpeg",
+            "image_b": "5.jpeg",
+            "success": true,
+            "matches": 1509,
+            "inliers": 1259,
+            "inlier_ratio": 0.8343273691186216,
+            "rms_error": 0.7297025322914124,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_03_homography.npz"
+        },
+        {
+            "pair_id": 4,
+            "image_a": "5.jpeg",
+            "image_b": "6.jpeg",
+            "success": true,
+            "matches": 1786,
+            "inliers": 1516,
+            "inlier_ratio": 0.8488241881298992,
+            "rms_error": 0.7988269329071045,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_04_homography.npz"
+        },
+        {
+            "pair_id": 5,
+            "image_a": "6.jpeg",
+            "image_b": "7.jpeg",
+            "success": true,
+            "matches": 1847,
+            "inliers": 1487,
+            "inlier_ratio": 0.8050893340552246,
+            "rms_error": 0.8748589754104614,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_05_homography.npz"
+        },
+        {
+            "pair_id": 6,
+            "image_a": "7.jpeg",
+            "image_b": "8.jpeg",
+            "success": true,
+            "matches": 1921,
+            "inliers": 1667,
+            "inlier_ratio": 0.8677771993753254,
+            "rms_error": 1.1015167236328125,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_06_homography.npz"
+        },
+        {
+            "pair_id": 7,
+            "image_a": "8.jpeg",
+            "image_b": "9.jpeg",
+            "success": true,
+            "matches": 1969,
+            "inliers": 1511,
+            "inlier_ratio": 0.7673946165566278,
+            "rms_error": 0.913783609867096,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_07_homography.npz"
+        },
+        {
+            "pair_id": 8,
+            "image_a": "9.jpeg",
+            "image_b": "10.jpeg",
+            "success": true,
+            "matches": 1759,
+            "inliers": 1427,
+            "inlier_ratio": 0.8112563956793633,
+            "rms_error": 0.8991072177886963,
+            "output_file": "/home/goma/school/sem9/m3/example1_cerro/output/homographies/pair_08_homography.npz"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+# ============================================================
+# Python
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+
+# ============================================================
+# IDE / editors
+# ============================================================
+
+.vscode/
+.idea/
+
+*.swp
+*.swo
+
+
+# ============================================================
+# Operating system files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+
+
+# ============================================================
+# Temporary files
+# ============================================================
+
+*.tmp
+*.temp
+*~
+
+
+# ============================================================
+# NOTE
+# ============================================================
+#
+# Example media and output directories are intentionally
+# committed.
+#
+# This repository includes complete pipeline examples so users
+# can inspect:
+#
+# - original images
+# - undistorted images
+# - extracted features
+# - feature matches
+# - homographies
+# - warped images
+# - debug visualizations
+# - final panoramas
+#
+# Therefore example output/ directories are NOT ignored.
+# ============================================================
+
