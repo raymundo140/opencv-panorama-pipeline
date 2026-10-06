@@ -359,9 +359,8 @@ Possible future extensions include:
 - parallel feature extraction
 - automatic video-frame extraction
 
-License
--------
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
-See LICENSE.txt for details.
+You are free to use, modify, and distribute this software under the terms of the MIT License.
